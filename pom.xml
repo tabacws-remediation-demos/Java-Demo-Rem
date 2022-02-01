@@ -53,6 +53,12 @@
 	</profiles>
 	
 	<dependencies>
+		<!-- <https://mvnrepository.com/artifact/io.whitesource/curekit> -->
+		<dependency>
+			<groupId>io.whitesource</groupId>
+			<artifactId>curekit</artifactId>
+			<version>1.1.1</version>
+		</dependency>
 		<dependency>
 			<groupId>javax.servlet</groupId>
 			<artifactId>javax.servlet-api</artifactId>
